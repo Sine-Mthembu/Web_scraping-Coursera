@@ -4,10 +4,10 @@ Analyzing Historical Stock/Revenue Data and Building a Dashboard for Telsa and G
 
 Final results that are not showing on the notebook.
 
-| ![Q5](https://github.com/user-attachments/assets/942aa7ab-c79a-4327-b849-9f2a8546c430) | 
+| ![Q5](https://github.com/user-attachments/assets/1162e147-2b28-402c-a6a3-3c8860e51a46) | 
 |:--:| 
 | *Stock \ Revenue for Tesla over time* |
 
-| ![Q6](https://github.com/user-attachments/assets/2c25812f-fc2b-4c6e-8c25-3dd978ff5052) | 
+| ![q6](https://github.com/user-attachments/assets/6a22e5c9-3cea-4351-8982-e16153f31632) | 
 |:--:| 
 | *Stock \ Revenue for GameStop over time* |
